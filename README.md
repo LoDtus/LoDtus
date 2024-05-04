@@ -16,8 +16,8 @@ I'm a 20-year-old living in [Hanoi, Vietnam](https://en.wikipedia.org/wiki/Hanoi
 
 ## 📊 GitHub Stats
 <p style="display: inline-block; vertical-align: top;">
-    <img src="https://github-readme-stats.vercel.app/api?username=LoDtus&theme=dracula&hide_border=false&include_all_commits=true&count_private=false">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=LoDtus&theme=dracula&hide_border=false&include_all_commits=true&count_private=false">
 </p>
 <p style="display: inline-block; vertical-align: top;">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoDtus&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoDtus&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
 </p>
