@@ -24,3 +24,11 @@ I'm a 20-year-old living in [Hanoi, Vietnam](https://en.wikipedia.org/wiki/Hanoi
     </p>
 </div>
 
+## 📗 My Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=dracula&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=dracula&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=dracula&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=dracula&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=dracula&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=dracula&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=dracula&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
