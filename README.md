@@ -15,20 +15,4 @@ I'm a 20-year-old living in [Hanoi, Vietnam](https://en.wikipedia.org/wiki/Hanoi
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat&logo=Aseprite&logoColor=#7D929E)
 
 ## 📊 GitHub Stats
-<div style="display: flex">
-    <p style="display: inline; vertical-align: top;">
-        <img src="https://github-readme-stats.vercel.app/api?username=LoDtus&theme=dracula&hide_border=false&include_all_commits=true&count_private=false">
-    </p>
-    <p style="display: inline; vertical-align: top;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoDtus&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
-    </p>
-</div>
-
-## 📗 My Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=dracula&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=dracula&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=dracula&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=dracula&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=dracula&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=dracula&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=dracula&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LoDtus&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&hide=issues,prs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoDtus&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
