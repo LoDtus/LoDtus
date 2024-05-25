@@ -1,5 +1,4 @@
 # Hi 👋, I'm Long Nguyen
-[![Visitor Badge](https://visitcount.itsvg.in/api?id=LoDtus&label=Profile%20Views&color=9&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 I'm a 20-year-old living in [Hanoi, Vietnam](https://en.wikipedia.org/wiki/Hanoi). Currently, I'm a student at [Thang Long University](https://thanglong.edu.vn/). My goal? To become a full-stack web developer. I love to explore and learn about new things. Let's join me on this journey!
 <h3 align="center">🌐 Contact Me</h3>
