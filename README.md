@@ -12,7 +12,7 @@ I'm a 21-year-old living in [Hanoi, Vietnam](https://en.wikipedia.org/wiki/Hanoi
 * **Web Development:** HTML, CSS, JavaScript, ReactJS, NodeJS, PHP
 * **Database Management Systems:** Microsoft SQL Server, MySQL, MongoDB
 * **Other Languages:** Python, Java, C++
-* **Data Analyst:** pandas, numpy, matplotlib, pyspark
+* **Data Analyst:** Pandas, Numpy, Matplotlib, PySpark
 * **Development Tools:** Visual Studio Code, Android Studio
 * **Design Tools:** Figma, Adobe Photoshop, Adobe Premiere Pro, Adobe Lightroom, Aseprite
 
