@@ -14,7 +14,7 @@ I'm a 21-year-old living in [Hanoi, Vietnam](https://en.wikipedia.org/wiki/Hanoi
 * **Other Languages:** Python, Java, C++
 * **Data Analyst:** Pandas, Numpy, Matplotlib, PySpark
 * **Development Tools:** Visual Studio Code, Android Studio
-* **Design Tools:** Figma, Adobe Photoshop, Adobe Premiere Pro, Adobe Lightroom, Aseprite
+* **Design Tools:** Figma, Adobe Photoshop, Adobe Premiere Pro, Adobe Lightroom
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LoDtus&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&hide=issues,prs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoDtus&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
