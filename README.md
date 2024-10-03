@@ -7,10 +7,10 @@ I'm a 21-year-old living in [Hanoi, Vietnam](https://en.wikipedia.org/wiki/Hanoi
 <a href="mailto:nguyentrunglong.150903@gmail.com@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=nguyentrunglong.150903@gmail.com"/></a> [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nguyentrunglong.LoDtus/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyentrunglong/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__nguyentrunglong__/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCidDNzdQGCuLytUUia5D2xA) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@__nguyentrunglong__)
 </div>
 
-## 💻 Languages and Tools:
+## 💻 Technologies:
 <!-- Thieu ExpressJS, PHP -->
-* **Web Development:** HTML, CSS, JavaScript, ReactJS, NodeJS, PHP
-* **Database Management Systems:** Microsoft SQL Server, MySQL, MongoDB
+* **Web Development:** HTML, CSS, JavaScript, ReactJS, Spring Boot
+* **Database Management Systems:** Microsoft SQL Server, MySQL, MongoDB, SQLite
 * **Other Languages:** Python, Java, C++
 * **Data Analyst:** Pandas, Numpy, Matplotlib, PySpark
 * **Development Tools:** Visual Studio Code, Android Studio
