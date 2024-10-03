@@ -9,9 +9,9 @@ I'm a 21-year-old living in [Hanoi, Vietnam](https://en.wikipedia.org/wiki/Hanoi
 
 ## 💻 Technologies:
 <!-- Thieu ExpressJS, PHP -->
-* **Web Development:** HTML, CSS, JavaScript, ReactJS, Spring Boot
+* **Web Development:** HTML, CSS, JavaScript, Java, ReactJS, Spring Boot, PHP
 * **Database Management Systems:** Microsoft SQL Server, MySQL, MongoDB, SQLite
-* **Other Languages:** Python, Java, C++
+* **Other Languages:** Python, C++
 * **Data Analyst:** Pandas, Numpy, Matplotlib, PySpark
 * **Development Tools:** Visual Studio Code, Android Studio
 * **Design Tools:** Figma, Adobe Photoshop, Adobe Premiere Pro, Adobe Lightroom
