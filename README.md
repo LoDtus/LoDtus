@@ -10,11 +10,11 @@ I'm a 21-year-old living in [Hanoi, Vietnam](https://en.wikipedia.org/wiki/Hanoi
 ## 💻 Technologies:
 <!-- Thieu ExpressJS, PHP -->
 * **Web Development:** HTML, CSS, JavaScript, Java, ReactJS, Spring Boot, PHP
-* **Database Management Systems:** Microsoft SQL Server, MySQL, MongoDB, SQLite
+* **Database Management Systems:** MySQL, Microsoft SQL Server, MongoDB, SQLite
 * **Other Languages:** Python, C++
 * **Data Analyst:** Pandas, Numpy, Matplotlib, PySpark
-* **Development Tools:** Visual Studio Code, Android Studio
-* **Design Tools:** Figma, Adobe Photoshop, Adobe Premiere Pro, Adobe Lightroom
+* **Development Tools:** Visual Studio Code, Intelij, Android Studio
+* **Design Tools:** Figma, Adobe Photoshop
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LoDtus&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&hide=issues,prs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoDtus&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
