@@ -1,6 +1,6 @@
 # Hi 👋, I'm Long Nguyen
 
-I'm a 21-year-old living in [Hanoi, Vietnam](https://en.wikipedia.org/wiki/Hanoi). Currently, I'm a student at [Thang Long University](https://thanglong.edu.vn/). My goal? To become a full-stack web developer. I love to explore and learn about new things. Let's join me on this journey!
+I'm a 21-year-old living in [Hanoi, Vietnam](https://www.google.com/maps/place/H%C3%A0+N%E1%BB%99i,+Vi%E1%BB%87t+Nam/@21.0228148,105.7957638,13z/data=!3m1!4b1!4m6!3m5!1s0x3135ab9bd9861ca1:0xe7887f7b72ca17a9!8m2!3d21.0277644!4d105.8341598!16zL20vMGZuZmY?entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D). Currently, I'm a student at [Thang Long University](https://thanglong.edu.vn/). My goal? To become a full-stack web developer. I love to explore and learn about new things. Let's join me on this journey!
 <h3 align="center">🌐 Contact Me</h3>
 <div align="center">
 
