@@ -17,6 +17,3 @@ I chose IT because it has been my passion since childhood. Furthermore, it is th
 * **Other Technologies:** Git, GitHub, Docker
 * **Development Tools:** Visual Studio Code, Intelij, Postman
 * **Design Tools:** Figma, Adobe Photoshop
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LoDtus&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&hide=issues,prs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoDtus&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
