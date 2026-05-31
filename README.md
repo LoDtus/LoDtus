@@ -5,7 +5,7 @@ I chose IT because it has been my passion since childhood. Furthermore, it is th
 <h3 align="center">🌐 Contact Me</h3>
 <div align="center">
 
-<a href="mailto:nguyentrunglong.150903@gmail.com@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=nguyentrunglong.150903@gmail.com"/></a> [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nguyentrunglong.LoDtus/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyentrunglong/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__nguyentrunglong__/)
+<a href="mailto:nguyentrunglong.150903@gmail.com@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=nguyentrunglong.150903@gmail.com"/></a> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyentrunglong/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nguyentrunglong.LoDtus/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__nguyentrunglong__/)
 </div>
 
 ## 💻 Technologies:
