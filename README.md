@@ -15,8 +15,8 @@ My goal is not just to write code. I want to keep learning, improve myself, and 
 ## 💻 Technologies:
 <!-- Thieu ExpressJS, PHP -->
 * **Programming Languages:** JavaScript, TypeScript, Java, Python
-* **BackEnd Development:** Node.js, NestJS, FastAPI, Spring Boot, Apache Kafka
-* **FrontEnd Development:** Next.js, React, React Native
+* **Backend Development:** Node.js, NestJS, FastAPI, Spring Boot, Apache Kafka, Redis, Elasticsearch...
+* **Frontend Development:** Next.js, React, React Native
 * **Database Management Systems:** MongoDB, PostgreSQL, MySQL, Oracle
 * **Other Technologies:** Git, GitHub, Docker, Firebase, Ollama, NAS Synology...
 * **Design Tools:** Figma, Adobe Tools, Capcut, Davinci Resolve...
