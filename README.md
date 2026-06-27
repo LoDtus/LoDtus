@@ -1,10 +1,10 @@
 # Hi 👋, I'm Long Nguyen
 
-I am Nguyen Trung Long, born in 2003 and based in [Hanoi, Vietnam](https://www.google.com/maps/place/H%C3%A0+N%E1%BB%99i,+Vi%E1%BB%87t+Nam/@21.0228148,105.7957638,13z/data=!3m1!4b1!4m6!3m5!1s0x3135ab9bd9861ca1:0xe7887f7b72ca17a9!8m2!3d21.0277644!4d105.8341598!16zL20vMGZuZmY?entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D). I studied Information Technology at [Thang Long University](https://thanglong.edu.vn/) and have been interested in technology from an early age.
+I'm Nguyen Trung Long, born in 2003 a Fullstack Developer based in [Hanoi, Vietnam](https://www.google.com/maps/place/H%C3%A0+N%E1%BB%99i,+Vi%E1%BB%87t+Nam/@21.0228148,105.7957638,13z/data=!3m1!4b1!4m6!3m5!1s0x3135ab9bd9861ca1:0xe7887f7b72ca17a9!8m2!3d21.0277644!4d105.8341598!16zL20vMGZuZmY?entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D). I studied Information Technology at [Thang Long University](https://thanglong.edu.vn/).
 
-What attracts me most to this field is the opportunity to solve problems and create practical solutions through technology. I enjoy analyzing requirements, understanding user needs, and finding effective ways to address technical challenges. These interests have motivated me to continuously improve both my technical knowledge and problem-solving skills.
+I enjoy exploring new ideas, building useful products, and working on interesting projects. What I like most about technology is solving problems with software and engineering. Besides software development, I'm also interested in mechanical products, machinery, and I have some knowledge of art and multimedia, which helps me see problems from different perspectives.
 
-My current goal is to gain hands-on experience as a software developer, strengthen my technical foundation, and collaborate with professionals in the technology industry. In the long term, I aim to expand my expertise beyond software development and move toward consulting-oriented roles, where I can combine technical knowledge, business understanding, and communication skills to help organizations solve complex problems and make better technology decisions.
+My goal is not just to write code. I want to keep learning, improve myself, and gradually move toward consulting roles, where I can design solutions, provide technology consulting, and help people solve real-world problems with the right technology.
 
 <h3 align="center">🌐 Contact Me</h3>
 <div align="center">
@@ -15,9 +15,8 @@ My current goal is to gain hands-on experience as a software developer, strength
 ## 💻 Technologies:
 <!-- Thieu ExpressJS, PHP -->
 * **Programming Languages:** JavaScript, TypeScript, Java, Python
-* **BackEnd Development:** Node.js, NestJS, Spring Boot, Apache Kafka
+* **BackEnd Development:** Node.js, NestJS, FastAPI, Spring Boot, Apache Kafka
 * **FrontEnd Development:** Next.js, React, React Native
-* **Database Management Systems:** MongoDB, PostgreSQL, MySQL
-* **Other Technologies:** Git, GitHub, Docker, Firebase, Ollama, NAS Synology
-* **Development Tools:** Visual Studio Code, Intelij, Postman
-* **Design Tools:** Figma, Adobe Photoshop
+* **Database Management Systems:** MongoDB, PostgreSQL, MySQL, Oracle
+* **Other Technologies:** Git, GitHub, Docker, Firebase, Ollama, NAS Synology...
+* **Design Tools:** Figma, Adobe Tools, Capcut, Davinci Resolve...
